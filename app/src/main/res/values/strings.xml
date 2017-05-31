@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TED Radio Hour Podcast</string>
+    <string name="PodcastUrl">https://www.npr.org/rss/podcast.php?id=510298</string>
+    <string name="LoadMessage">Loading Episodes ...</string>
+    <string name="LoadingEpisode" type="id">Loading episode: </string>
+    <string name="PlayNow">Play Now</string>
+    <string name="PodcastPlayer">PodcastPlayerFragment</string>
+    <string name="PlayActivity">PlayActivity</string>
+    <string name="DurationLabel">Duration: </string>
+    <string name="DescriptionLabel"><![CDATA[<font color=\'#303F9F\'>Description: </font>]]></string>
+    <string name="PublicationLabel">Publication Date: </string>
+    <string name="NotConnectedToInternet">The phone is not connected to internet</string>
+    <string name="NoMessageFromMainActivity">The application failed to send appropriate response, Try again!</string>
+    <string name="play_activity">Play!</string>
+    <string name="PlayActivityTimeFormat">MM/dd/yyyy</string>
+    <string name="TimeSeparator">:</string>
+</resources>
